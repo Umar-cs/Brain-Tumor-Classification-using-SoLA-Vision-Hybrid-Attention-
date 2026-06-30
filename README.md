@@ -30,6 +30,7 @@ Preprocessing
 * Image resizing (224 × 224)
 * Data augmentation
 * Normalization
+
 Architecture
 MRI Image
       ↓
